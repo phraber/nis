@@ -1,14 +1,13 @@
-# Tier-Scaled Serum Neutralization Indices
+## Tier-Scaled Serum Neutralization Indices
 
-Tier-Scaled Serum Neutralization Indices
-
-## Reference
+### Reference
 
 P Hraber, B Korber, K Wagh, D Montefiori, M Roederer. A single, continuous metric to define tiered serum neutralization potency against HIV. eLife e31805, 2018. doi:10.7554/eLife.31805. PMID 29350181
 
 
-#### Quick start:
+### Quick start:
 
+1. Download these files.
 1. Start R, by whatever method you choose.
 1. Type "install.packages(c('glm2','beeswarm','RColorBrewer'))".
 1. Type "source('compute-ni-with-example.R')"
