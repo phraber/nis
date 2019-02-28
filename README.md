@@ -36,4 +36,5 @@ under the terms of the BSD 3-Clause License. If software is modified
 to produce derivative works, such modified software should be clearly
 marked, so as not to confuse it with the version available from
 LANL. Full text of the BSD 3-Clause License can be found in the
-LICENSE file in the main development branch of the repository.
+[LICENSE file](github.com/phraber/nis/blob/master/LICENSE.md) in the
+main development branch of the repository.
