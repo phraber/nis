@@ -13,6 +13,8 @@ P Hraber, B Korber, K Wagh, D Montefiori, M Roederer. A single, continuous metri
 1. Type "install.packages(c('glm2','beeswarm','RColorBrewer'))".
 1. Type "source('compute-ni-with-example.R')"
 
+### Legalese
+
 ©2017-2018. Triad National Security, LLC. All rights reserved.
  
 This program was produced under U.S. Government contract
