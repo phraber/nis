@@ -2,6 +2,11 @@
 
 Tier-Scaled Serum Neutralization Indices
 
+## Reference
+
+P Hraber, B Korber, K Wagh, D Montefiori, M Roederer. A single, continuous metric to define tiered serum neutralization potency against HIV. eLife e31805, 2018. doi:10.7554/eLife.31805. PMID 29350181
+
+
 #### Quick start:
 
 1. Start R, by whatever method you choose.
